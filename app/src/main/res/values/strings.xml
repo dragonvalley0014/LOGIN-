@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lovo_kart</string>
+    
+    <string name="LOGIN">
+        <br>LOGIN</br>
+    </string>
+</resources>
