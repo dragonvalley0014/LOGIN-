@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">lovo_kart</string>
-    
+
     <string name="LOGIN">
         <br>LOGIN</br>
     </string>
+    <string name="SINGUP">
+        <br>Sign Up</br>
+    </string>
+    <string name="lo_vo_kart">Lo-Vo kart</string>
 </resources>
